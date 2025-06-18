@@ -1,0 +1,15 @@
+projekt,phase,startdatum,enddatum,dauer_tage
+Neubau A,Fundament,2024-06-01,2024-06-10,10
+Neubau A,Rohbau,2024-06-11,2024-07-10,30
+Neubau A,Dach & Fassade,2024-07-11,2024-07-25,15
+Neubau A,Innenausbau,2024-07-26,2024-08-20,26
+Neubau A,Abnahme,2024-08-21,2024-08-30,10
+Umbau B,Abriss,2024-06-01,2024-06-07,7
+Umbau B,Rohbau,2024-06-08,2024-06-20,13
+Umbau B,Innenausbau,2024-06-21,2024-07-10,20
+Umbau B,Endabnahme,2024-07-11,2024-07-15,5
+Sanierung C,Bestandsaufnahme,2024-06-10,2024-06-15,6
+Sanierung C,Abriss,2024-06-16,2024-06-30,15
+Sanierung C,Struktursanierung,2024-07-01,2024-07-25,25
+Sanierung C,Innenausbau,2024-07-26,2024-08-30,36
+Sanierung C,Abnahme,2024-09-01,2024-09-05,5
